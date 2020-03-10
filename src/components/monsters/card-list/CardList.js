@@ -1,6 +1,6 @@
 import React from "react";
 import { useStyles } from "./cardList.styles";
-import Card from "../card/Card";
+import Card from "../card2/Card";
 
 const CardList = (props) => {
   const classes = useStyles();

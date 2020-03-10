@@ -2,16 +2,20 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/grovejt/react-tutorials",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "@material-ui/core": "^4.9.5",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "@material-ui/core": "^4.9.5",
+    "gh-pages": "^2.2.0"
   },
   "devDependencies": {
     "react-scripts": "3.4.0"
