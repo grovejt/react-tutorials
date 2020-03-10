@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grovejt/react-tutorials/static/css/main.515309fe.chunk.css",
+    "main.js": "/grovejt/react-tutorials/static/js/main.6b582d64.chunk.js",
+    "main.js.map": "/grovejt/react-tutorials/static/js/main.6b582d64.chunk.js.map",
+    "runtime-main.js": "/grovejt/react-tutorials/static/js/runtime-main.bdc0818d.js",
+    "runtime-main.js.map": "/grovejt/react-tutorials/static/js/runtime-main.bdc0818d.js.map",
+    "static/js/2.24f5296f.chunk.js": "/grovejt/react-tutorials/static/js/2.24f5296f.chunk.js",
+    "static/js/2.24f5296f.chunk.js.map": "/grovejt/react-tutorials/static/js/2.24f5296f.chunk.js.map",
+    "index.html": "/grovejt/react-tutorials/index.html",
+    "precache-manifest.ffa975f2433febeb442acf8680e6cea3.js": "/grovejt/react-tutorials/precache-manifest.ffa975f2433febeb442acf8680e6cea3.js",
+    "service-worker.js": "/grovejt/react-tutorials/service-worker.js",
+    "static/css/main.515309fe.chunk.css.map": "/grovejt/react-tutorials/static/css/main.515309fe.chunk.css.map",
+    "static/js/2.24f5296f.chunk.js.LICENSE.txt": "/grovejt/react-tutorials/static/js/2.24f5296f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdc0818d.js",
+    "static/js/2.24f5296f.chunk.js",
+    "static/css/main.515309fe.chunk.css",
+    "static/js/main.6b582d64.chunk.js"
+  ]
+}
